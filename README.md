@@ -1,6 +1,6 @@
 # Data Analsis_SQL_Healthcare
 
-**An exploratory data analysis (EDA) is performed using MySQL and the healthcare dataset provided (see below). The dataset is downloaded in csv. file and later imported into MySQL in my local machine.**
+**An exploratory data analysis (EDA) is performed using MySQL with basic to advanced SQL queries and functions. The dataset is downloaded in csv. file and later imported into MySQL in my local machine.**
 
 This dataset is retrieved from Kaggle : https://www.kaggle.com/datasets/prasad22/healthcare-dataset/data
 
